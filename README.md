@@ -1,4 +1,4 @@
-# Squalene-Synthase-SQS-genes-in-1-000-Plants-1KP-
+![alt text](https://repository-images.githubusercontent.com/810921019/e50f61f8-16ad-4e24-bfac-33b26a7acc7e)
 
 This repository includes scripts created for the consolidation and analyses of data from the 1,000 Plants (1KP) project [[1](https://academic.oup.com/gigascience/article/3/1/2047-217X-3-17/2682972), [2](https://www.nature.com/articles/s41586-019-1693-2)].
 
